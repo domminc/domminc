@@ -1,0 +1,14 @@
+# Dependency/build artifacts for the external/ vendored projects.
+# Source is committed; each project's own setup command (see external/README.md)
+# regenerates these locally.
+external/**/node_modules/
+external/**/.venv/
+external/**/venv/
+external/**/target/
+external/**/dist/
+external/**/build/
+external/**/.next/
+external/**/__pycache__/
+external/**/*.pyc
+external/**/.turbo/
+external/**/*.egg-info/
