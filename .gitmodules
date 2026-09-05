@@ -1,0 +1,66 @@
+[submodule "repos/social-media-skills"]
+	path = repos/social-media-skills
+	url = https://github.com/charlie947/social-media-skills
+[submodule "repos/ECC"]
+	path = repos/ECC
+	url = https://github.com/affaan-m/ECC
+[submodule "repos/context7"]
+	path = repos/context7
+	url = https://github.com/upstash/context7
+[submodule "repos/strix"]
+	path = repos/strix
+	url = https://github.com/usestrix/strix
+[submodule "repos/awesome-design-md"]
+	path = repos/awesome-design-md
+	url = https://github.com/VoltAgent/awesome-design-md
+[submodule "repos/taste-skill"]
+	path = repos/taste-skill
+	url = https://github.com/Leonxlnx/taste-skill
+[submodule "repos/agent-skills"]
+	path = repos/agent-skills
+	url = https://github.com/vercel-labs/agent-skills
+[submodule "repos/watermarks-remover"]
+	path = repos/watermarks-remover
+	url = https://github.com/guillaumemeyer/watermarks-remover
+[submodule "repos/storyscope"]
+	path = repos/storyscope
+	url = https://github.com/jenna-russell/storyscope
+[submodule "repos/OmniRoute"]
+	path = repos/OmniRoute
+	url = https://github.com/diegosouzapw/OmniRoute
+[submodule "repos/headroom"]
+	path = repos/headroom
+	url = https://github.com/headroomlabs-ai/headroom
+[submodule "repos/claude-plugins-official"]
+	path = repos/claude-plugins-official
+	url = https://github.com/anthropics/claude-plugins-official
+[submodule "repos/playwright-mcp"]
+	path = repos/playwright-mcp
+	url = https://github.com/microsoft/playwright-mcp
+[submodule "repos/claude-mem"]
+	path = repos/claude-mem
+	url = https://github.com/thedotmack/claude-mem
+[submodule "repos/one-skill-to-rule-them-all"]
+	path = repos/one-skill-to-rule-them-all
+	url = https://github.com/rebelytics/one-skill-to-rule-them-all
+[submodule "repos/agent-browser"]
+	path = repos/agent-browser
+	url = https://github.com/vercel-labs/agent-browser
+[submodule "repos/firecrawl-mcp-server"]
+	path = repos/firecrawl-mcp-server
+	url = https://github.com/firecrawl/firecrawl-mcp-server
+[submodule "repos/chrome-devtools-mcp"]
+	path = repos/chrome-devtools-mcp
+	url = https://github.com/ChromeDevTools/chrome-devtools-mcp
+[submodule "repos/perplexity-modelcontextprotocol"]
+	path = repos/perplexity-modelcontextprotocol
+	url = https://github.com/perplexityai/modelcontextprotocol
+[submodule "repos/glif-mcp-server"]
+	path = repos/glif-mcp-server
+	url = https://github.com/glifxyz/glif-mcp-server
+[submodule "repos/knowledge-work-plugins"]
+	path = repos/knowledge-work-plugins
+	url = https://github.com/anthropics/knowledge-work-plugins
+[submodule "repos/marketingskills"]
+	path = repos/marketingskills
+	url = https://github.com/coreyhaines31/marketingskills
