@@ -1,0 +1,7 @@
+# Local tool clones / working directories — not part of this portfolio's tracked content
+Agent-Reach/
+
+# Python virtual envs
+.venv/
+__pycache__/
+*.pyc
