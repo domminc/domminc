@@ -1,66 +1,88 @@
 [submodule "repos/social-media-skills"]
 	path = repos/social-media-skills
 	url = https://github.com/charlie947/social-media-skills
+	ignore = dirty
 [submodule "repos/ECC"]
 	path = repos/ECC
 	url = https://github.com/affaan-m/ECC
+	ignore = dirty
 [submodule "repos/context7"]
 	path = repos/context7
 	url = https://github.com/upstash/context7
+	ignore = dirty
 [submodule "repos/strix"]
 	path = repos/strix
 	url = https://github.com/usestrix/strix
+	ignore = dirty
 [submodule "repos/awesome-design-md"]
 	path = repos/awesome-design-md
 	url = https://github.com/VoltAgent/awesome-design-md
+	ignore = dirty
 [submodule "repos/taste-skill"]
 	path = repos/taste-skill
 	url = https://github.com/Leonxlnx/taste-skill
+	ignore = dirty
 [submodule "repos/agent-skills"]
 	path = repos/agent-skills
 	url = https://github.com/vercel-labs/agent-skills
+	ignore = dirty
 [submodule "repos/watermarks-remover"]
 	path = repos/watermarks-remover
 	url = https://github.com/guillaumemeyer/watermarks-remover
+	ignore = dirty
 [submodule "repos/storyscope"]
 	path = repos/storyscope
 	url = https://github.com/jenna-russell/storyscope
+	ignore = dirty
 [submodule "repos/OmniRoute"]
 	path = repos/OmniRoute
 	url = https://github.com/diegosouzapw/OmniRoute
+	ignore = dirty
 [submodule "repos/headroom"]
 	path = repos/headroom
 	url = https://github.com/headroomlabs-ai/headroom
+	ignore = dirty
 [submodule "repos/claude-plugins-official"]
 	path = repos/claude-plugins-official
 	url = https://github.com/anthropics/claude-plugins-official
+	ignore = dirty
 [submodule "repos/playwright-mcp"]
 	path = repos/playwright-mcp
 	url = https://github.com/microsoft/playwright-mcp
+	ignore = dirty
 [submodule "repos/claude-mem"]
 	path = repos/claude-mem
 	url = https://github.com/thedotmack/claude-mem
+	ignore = dirty
 [submodule "repos/one-skill-to-rule-them-all"]
 	path = repos/one-skill-to-rule-them-all
 	url = https://github.com/rebelytics/one-skill-to-rule-them-all
+	ignore = dirty
 [submodule "repos/agent-browser"]
 	path = repos/agent-browser
 	url = https://github.com/vercel-labs/agent-browser
+	ignore = dirty
 [submodule "repos/firecrawl-mcp-server"]
 	path = repos/firecrawl-mcp-server
 	url = https://github.com/firecrawl/firecrawl-mcp-server
+	ignore = dirty
 [submodule "repos/chrome-devtools-mcp"]
 	path = repos/chrome-devtools-mcp
 	url = https://github.com/ChromeDevTools/chrome-devtools-mcp
+	ignore = dirty
 [submodule "repos/perplexity-modelcontextprotocol"]
 	path = repos/perplexity-modelcontextprotocol
 	url = https://github.com/perplexityai/modelcontextprotocol
+	ignore = dirty
 [submodule "repos/glif-mcp-server"]
 	path = repos/glif-mcp-server
 	url = https://github.com/glifxyz/glif-mcp-server
+	ignore = dirty
 [submodule "repos/knowledge-work-plugins"]
 	path = repos/knowledge-work-plugins
 	url = https://github.com/anthropics/knowledge-work-plugins
+	ignore = dirty
 [submodule "repos/marketingskills"]
 	path = repos/marketingskills
 	url = https://github.com/coreyhaines31/marketingskills
+	ignore = dirty
